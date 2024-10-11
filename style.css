@@ -1,0 +1,12 @@
+html{
+  h1{
+    color: orange;
+    font-family: "Wingdings", Times, serif;
+  }
+  p{
+   color:green;
+   font-size:18pt;
+   font-family: "Comic SANS MS", Times, serif;
+   text-indent: .25in;
+  }
+}
